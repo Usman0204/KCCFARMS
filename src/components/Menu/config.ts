@@ -7,16 +7,16 @@ const config: MenuEntry[] = [
   //   href: '/',
   // },
   {
-    label: 'Trade',
+    label: 'SWAP',
     icon: 'TradeIcon',
     items: [
       {
         label: 'Exchange',
-        href: 'http://54.201.71.1:41445/#/swap',
+        href: 'http://54.201.71.1:36913/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'http://54.201.71.1:41445/#/pool',
+        href: 'http://54.201.71.1:36913/#/pool',
       },
     ],
   },
